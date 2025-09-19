@@ -31,7 +31,7 @@ def main():
         "Mac Pro (Late 2013)",
         "3.5 GHc 6-Core Intel Xeon E5",
         1024, 64,
-        "macOS Big Sur", 2013, 1500
+        "macOS Big Sur", 1999, 1500
     )
 
     
